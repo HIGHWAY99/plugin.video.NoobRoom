@@ -1,0 +1,21 @@
+1.0.17 (TheHighway)
+	- added 'Settings' and 'NoobRoom' to getContextMenuItems()
+	- fixed 'addon = Addon(addon_id, sys.argv)' to include the missing ', sys.argv' which is needed to allow it to perform more functions
+	- added addst()		## Get Settings
+	- added addpr()		## Get Params
+	- added tfalse()	## Get True / False
+	- added SetView()	## Set's Content Type of Menu/Directory-Listings and handles AutoView
+	- added AutoView options to settings.xml
+1.0.15 included optixine changes (thanks optixine) :
+	- changed the items limit to 50 from 25
+	- fixed thumbs for movies
+	- added 2 new categories: Recently released and IMDB Rating order
+	- fixed the issue of the movie name not showing while playing it (now you can easily browse for subtitles)
+1.0.5 updated server 5 address
+1.0.4 fix a regular expression mistake in the last update
+1.0.3 updated for the change in url format in movielist
+1.0
+- Intial release
+1.0.2 updated Ip address for movies
+
+
